@@ -19,7 +19,7 @@
   <hr>
 </div>
 
-Welcome to MetaChain! MetaChain is a **Fully-Automated** and highly **Self-Developing** framework that enables users to create and deploy LLM agents through **Natural Language Alone**. 
+Welcome to MetaChain! MetaChain is a **Fully-Automated** and highly **Self-Developing** framework that enables users to create and deploy LLM agents through **Natural Language Alone**. (Now renamed to AutoAgent)
 
 ## ✨Key Features
 
